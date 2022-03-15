@@ -6,8 +6,8 @@ A Node js Based Application
 you can post your blog on these site
 it will show on main timeline
 
----->to run the app
+----> to run the app
 first clone this repo
 then open in your local system
 open terminal 
-run command --> node 
+run command --> "node" 
